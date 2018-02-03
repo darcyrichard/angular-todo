@@ -1,0 +1,22 @@
+{
+  "name": "parents",
+  "version": "1.0.0",
+  "description": "\"# angular-todo\" \r \"# angular-todo\"",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darcyrichard/angular-todo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darcyrichard/angular-todo/issues"
+  },
+  "homepage": "https://github.com/darcyrichard/angular-todo#readme"
+}
